@@ -4,7 +4,7 @@ OiI turma! Eu sou a Isabella e esta é a minha página no mural
 
 ## Sobre mim
 
-* Hobby: cozinhar, nadar e atirar
+* Hobby: cozinhar, ler, nadar e atirar
 * Música ou jogo favorito: não tenho música favorita
 * Uma curiosidade: sou cidadã italiana
 
